@@ -45,14 +45,14 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Mount
 
 ### Description
-
+It was the part that goes on top of the base.
 ### Evidence
-
+[The mount in Onshape](https://cvilleschools.onshape.com/documents/1345e14f7f5ff9f69186a6d6/w/1b714c6d09f66351194a1dbc/e/8355d66e2b016e02b774bb6c)
 ### Image
 
 ### Reflection
 
----
+It wasn't to hard to follow along with Dr. Sheilds doing this part but it taught me that you can just create a new part by extruding off another.
 
 
 ## Fork
